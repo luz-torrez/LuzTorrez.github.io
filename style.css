@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Mansalva&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap");
+
+body {
+  margin: 0px;
+  background-image: url(https://wallpapercave.com/wp/wp4829526.jpg);
+}
+
+.textosaludo,
+.fuentecursiva {
+  font-family: "Mansalva", cursive;
+  margin: 0px;
+}
+
+.LinkedIn,
+.GitHub,
+.Twitter {
+  cursor: pointer;
+}
+
+.LinkedIn,
+.GitHub,
+.Twitter,
+.Gmail {
+  height: 60px;
+}
+
+.pie {
+  justify-content: space-between;
+}
+
+#misredes {
+  background-image: url(https://wallpapercave.com/wp/wp5138253.jpg);
+  height: 200px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.textofoot {
+  font-size: 0.9em;
+  font-family: "Courier Prime", monospace;
+}
+
+.tf1 {
+  margin-left: 40px;
+}
+
+.tf4 {
+  margin-right: 0px;
+  padding-right: 0px;
+}
